@@ -1,3 +1,3 @@
-# SQLite Explore
+# SQLite functionalities
 
-Exploring functionalities or SQLite.
+Functionalities of SQLite.
